@@ -1,4 +1,4 @@
-import{a as e,i as t,n,o as r,t as i}from"./index-DRNaNYa0.js";import{t as a}from"./style-Cq4_YCPY.js";var o=r(e(),1),s=t();function c(){let[e,t]=(0,o.useState)(200),[r,c]=(0,o.useState)(200),[l,u]=(0,o.useState)(`#cccccc`),[d,f]=(0,o.useState)(1),[p,m]=(0,o.useState)(null),[h,g]=(0,o.useState)(``),[_,v]=(0,o.useState)(``),[y,b]=(0,o.useState)(null),[x,S]=(0,o.useState)(0),C=(0,o.useRef)(null),w=`<ColorFromImage
+import{a as e,i as t,n,o as r,t as i}from"./index-C4wZIC6X.js";import{t as a}from"./style-D8PCnqIU.js";var o=r(e(),1),s=t();function c(){let[e,t]=(0,o.useState)(200),[r,c]=(0,o.useState)(200),[l,u]=(0,o.useState)(`#cccccc`),[d,f]=(0,o.useState)(1),[p,m]=(0,o.useState)(null),[h,g]=(0,o.useState)(``),[_,v]=(0,o.useState)(``),[y,b]=(0,o.useState)(null),[x,S]=(0,o.useState)(0),C=(0,o.useRef)(null),w=`<ColorFromImage
   width={${e}}
   height={${r}}
   borderColor="${l}"
